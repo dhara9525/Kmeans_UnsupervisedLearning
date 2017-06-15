@@ -1,0 +1,3 @@
+Matlab version: R2017a (9.2.0.538062)
+
+In this folder Project3_MainProgram.m is primary project which reads file simple_iris_dataset.dat. This project implements K-means algorithm. This program has one output graph. The screen shot (project3_figure_screenshot.PNG) of this output graph is is in the folder. Screen shot of command window is in folder as well which is named as Project3_CommandWindow_Screenshot.PNG.
